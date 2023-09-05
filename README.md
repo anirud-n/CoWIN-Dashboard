@@ -1,5 +1,7 @@
 <h1>CoWIN Dashboard</h1>
 
+Deployed link: https://anirudcowin.ccbp.tech/
+
 **Refer to the video below**
 
 <br/>
